@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jan 16 10:56:26 2022
+# Process ID: 7456
+# Current directory: E:/BE_Project/Project/Project_files/CB4CLED/CB4CLED_Top/CB4CLED_Top/vhdl/xilinxprj/CB4CLED_Top.runs/cb4cled_design_rst_3_synth_1
+# Command line: vivado.exe -log cb4cled_design_rst_3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cb4cled_design_rst_3.tcl
+# Log file: E:/BE_Project/Project/Project_files/CB4CLED/CB4CLED_Top/CB4CLED_Top/vhdl/xilinxprj/CB4CLED_Top.runs/cb4cled_design_rst_3_synth_1/cb4cled_design_rst_3.vds
+# Journal file: E:/BE_Project/Project/Project_files/CB4CLED/CB4CLED_Top/CB4CLED_Top/vhdl/xilinxprj/CB4CLED_Top.runs/cb4cled_design_rst_3_synth_1\vivado.jou
+#-----------------------------------------------------------
+source cb4cled_design_rst_3.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP cb4cled_design_rst_3, cache-ID = d5c17882e2aa262d.
+INFO: [Common 17-206] Exiting Vivado at Sun Jan 16 10:56:38 2022...

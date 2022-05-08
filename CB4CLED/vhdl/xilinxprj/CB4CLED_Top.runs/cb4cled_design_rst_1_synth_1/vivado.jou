@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jan 16 10:56:35 2022
+# Process ID: 22368
+# Current directory: E:/BE_Project/Project/Project_files/CB4CLED/CB4CLED_Top/CB4CLED_Top/vhdl/xilinxprj/CB4CLED_Top.runs/cb4cled_design_rst_1_synth_1
+# Command line: vivado.exe -log cb4cled_design_rst_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cb4cled_design_rst_1.tcl
+# Log file: E:/BE_Project/Project/Project_files/CB4CLED/CB4CLED_Top/CB4CLED_Top/vhdl/xilinxprj/CB4CLED_Top.runs/cb4cled_design_rst_1_synth_1/cb4cled_design_rst_1.vds
+# Journal file: E:/BE_Project/Project/Project_files/CB4CLED/CB4CLED_Top/CB4CLED_Top/vhdl/xilinxprj/CB4CLED_Top.runs/cb4cled_design_rst_1_synth_1\vivado.jou
+#-----------------------------------------------------------
+source cb4cled_design_rst_1.tcl -notrace
